@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 DB_FILE = "users.csv"
 EXP_PREFIX = "expenses_"
 ADMIN_CONFIG = "admin.cfg"
-ADMIN_KEY = "dayan@eman.com"
+ADMIN_KEY = "dayan@admin.com"
 CATEGORIES = [
     "Food", "Transport", "Utilities", "Entertainment",
     "Health", "Education", "Shopping", "Bills",
